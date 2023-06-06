@@ -34,11 +34,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Mullvad DNS with ad blocking to Big Sur and iOS 14 based systems</string>
+	<string>Configures device to use Mullvad DNS over HTTPS with ad blocking</string>
 	<key>PayloadDisplayName</key>
-	<string>Mullvad DNS over HTTPS</string>
+	<string>Mullvad DNS over HTTPS with ad blocking</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.hghann.mullvad-dns-over-https</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
